@@ -18,7 +18,7 @@ Collection of the blogs that I'm interested in.
 2. [Amazon Machine Learning](https://aws.amazon.com/blogs/machine-learning/)
 
 ## OpenSource
-1. [Google OpenSource]((https://opensource.googleblog.com)
+1. [Google OpenSource](https://opensource.googleblog.com)
 2. [Facebook OpenSource](https://opensource.facebook.com)
 3. [Spotify OpenSource](https://spotify.github.io)
 
