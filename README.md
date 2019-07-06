@@ -26,3 +26,4 @@ Collection of the blogs that I'm interested in.
 1. [Amazon Blog](https://blog.aboutamazon.com)
 2. [Spotify Showcase](https://developer.spotify.com/community/showcase/open-source/)
 3. [codinghorror](https://blog.codinghorror.com)
+4. [aaronparecki.com](https://aaronparecki.com)
