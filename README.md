@@ -1,5 +1,9 @@
-# Blogs
-Collection of the blogs that I'm interested in.
+# Tech websites
+Website which provide latest tech trends.
+
+## Tech Trends
+1. [TechCrunch](https://techcrunch.com)
+2. [Wired](https://www.wired.com)
 
 ## Research
 1. [Google Research Blog](https://research.googleblog.com/index.html)
