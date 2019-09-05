@@ -5,6 +5,8 @@ Website which provide latest tech trends.
 1. [TechCrunch](https://techcrunch.com)
 2. [Wired](https://www.wired.com)
 3. [iThome](https://www.ithome.com.tw)
+4. [technews TW](https://technews.tw)
+5. [Cool 3C](https://www.cool3c.com)
 
 ## Research
 1. [Google Research Blog](https://research.googleblog.com/index.html)
